@@ -10,18 +10,24 @@ I compilation of all the tools / resources that have kept me sane and on the war
 </ol>
 
 # Personal Growth
-Podcasts:
-Email Subscritions:
-Books:
-Articles:
+<ul>
+  <li> Podcasts: </li>
+  <li> Email Subscritions: </li>
+  <li> Books: </li>
+  <li> Articles: </li>
+</ul>
 
 # Techical Growth
-Podcasts: &nbsp;
-Email Subscritions:
-Books:
-Articles:
-Online Courses: 
-- Upcase: https://upcase.com/practice
+<ul>
+  <li> Podcasts: </li>
+  <li> Email Subscritions: </li>
+  <li> Books: </li>
+  <li> Articles: </li>
+  <li> Online Courses: </li>
+    <ul>
+      <li> Upcase: https://upcase.com/practice </li>
+    </ul>
+</ul>
 
 
 # Job Hunting
