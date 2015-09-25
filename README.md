@@ -20,6 +20,9 @@ I compilation of all the tools / resources that have kept me sane and on the war
 # Techical Growth
 <ul>
   <li> Podcasts: </li>
+    <ul> 
+      <li> Bike Shed (By some guys at Thoughtbot): http://bikeshed.fm/ </li>
+    </ul>
   <li> Email Subscritions: </li>
   <li> Books: </li>
   <li> Articles: </li>
