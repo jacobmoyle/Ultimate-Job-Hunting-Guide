@@ -5,7 +5,7 @@ I compilation of all the tools / resources that have kept me sane and on the war
 <ol>
   <li> Personal Growth </li>
   <li> Techical Growth </li>
-  <li> Job Hunting </li>
+  <li> Finding Jobs </li>
   <li> The Interview </li>
 </ol>
 
@@ -35,8 +35,27 @@ I compilation of all the tools / resources that have kept me sane and on the war
     </ul>
 </ul>
 
-# Job Hunting
+# Finding Jobs
+
+## Resumes
 <ul>
+  <li> Creddle: http://creddle.io/ </il>
+  <ul>
+    <li> Free resume builder. Kinda glitchy but helpful for formatting if you don't like using tables in docs or something. <b>BEWARE:</b> I've heard that having information split into two columns does not play well with resume scrapers. </li>
+  </ul>
+  <li> TopResume: https://www.topresume.com/ </li>
+  <ul>
+      <li> Free resume review. Feedback seems to vary but at a bare minimum you get feedback on how you're selling yourself and resume aesthetics.
+  </ul>
+</ul>
+
+## Job Sites
+
+<ul>
+  <li> Ultimate Web Dev. Job Guide: http://blog.thefirehoseproject.com/posts/the-ultimate-guide-to-jobs-in-web-development/ </li>
+  <ul>
+    <li> <i><b>If this is the ultimate job guide, this is godly.</b></i> </li>
+  </ul>
   <li> Hired: http://join.hired.com/x/CF5apL </li>
   <li> Indeed: http://www.indeed.com/ </li>
   <li> White Truffle: https://www.whitetruffle.com </li>
@@ -44,7 +63,7 @@ I compilation of all the tools / resources that have kept me sane and on the war
   <li> Monster: http://www.monster.com/ </li>
   <li> SmartHires: https://www.smarthires.io </li>
   <li> Underdog: https://underdog.io/ </li>
-  <li> Venture Capalist Sites: </li>
+  <li> Venture Capalist Sites: Any that have a careers page. See the Firehose blog link above.</li>
 </ul>
 
 # The Interview
