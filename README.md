@@ -32,7 +32,16 @@ I compilation of all the tools / resources that have kept me sane and on the war
   <li> Online Courses: </li>
     <ul>
       <li> Upcase: https://upcase.com/practice </li>
+      <li> Udacity: https://www.udacity.com/ </li>
+      <li> TeamTreeHouse: http://referrals.trhou.se/jacobmoyle </li>
+      <ul>
+        <li> If you have a SF Library card, TeamTreeHouse is <b>free</b>.</li>
+      </ul>
     </ul>
+  <li> Helpful Videos: </li>
+  <ul>
+    <li> Whiteboarding Reddit: https://www.udacity.com/course/viewer#!/c-cs253/l-48683805/m-48721328 </li>
+  </ul>
 </ul>
 
 # Finding Jobs
