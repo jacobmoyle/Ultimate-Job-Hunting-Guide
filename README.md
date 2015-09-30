@@ -76,7 +76,10 @@ I compilation of all the tools / resources that have kept me sane and on the war
 </ul>
 
 # The Interview
-Pick the projects you feel most confident and passionate about discussing. Ensure your answers are concise and leave room to go into more detail when appropriate.
+
+A helpful email written by a recruiter from Hired:
+
+"Pick the projects you feel most confident and passionate about discussing. Ensure your answers are concise and leave room to go into more detail when appropriate.
 
 Ask for further clarification on any technical questions before attacking the answer. Doing so will help you better understand how to approach the problem and will also allow you to demonstrate your thought process to the interviewer.  Here are 3 resources to use that allows you to practice for technical interviews: https://www.interviewcake.com/ AND Technical Interview Cheat Sheet (https://gist.github.com/TSiege/cbb0507082bb18ff7e4b)
 
@@ -92,4 +95,4 @@ After you confirm your onsite, ask for an outline of your interview schedule so 
 
 I know interviewing can be stressful. Try to relax, smile, and enjoy the process. This will help employers get a better understanding of who you are and what you bring to the table.
 
-Last, but not least, always remember to write a follow-up Thank You note by the next day to each person that you met/spoke with.
+Last, but not least, always remember to write a follow-up Thank You note by the next day to each person that you met/spoke with."
