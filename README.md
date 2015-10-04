@@ -24,6 +24,12 @@ I compilation of all the tools / resources that have kept me sane and on the war
       <li> Bike Shed (By some guys at Thoughtbot): http://bikeshed.fm/ </li>
     </ul>
   <li> Email Subscritions: </li>
+  <ul>
+    <li>Interview Cake: https://www.interviewcake.com/</li>
+    <ul>
+      <li>Weekly newsletter contains a free algorithm.</li>
+    </ul>
+  </ul>
   <li> Books: </li>
   <li> Articles: </li>
     <ul>
@@ -36,11 +42,18 @@ I compilation of all the tools / resources that have kept me sane and on the war
       <li> TeamTreeHouse: http://referrals.trhou.se/jacobmoyle </li>
       <ul>
         <li> If you have a SF Library card, TeamTreeHouse is <b>free</b>.</li>
+        <li> Treehouse is a nice way to become exposed to a language, but I never felt like it made me fluent. I've found that doing a Treehouse course and then an in-depth todo app tutorial is the best way to learn something new.</li>
       </ul>
     </ul>
   <li> Helpful Videos: </li>
   <ul>
     <li> Whiteboarding Reddit: https://www.udacity.com/course/viewer#!/c-cs253/l-48683805/m-48721328 </li>
+  </ul>
+  <li> Alg. Practice: </li>
+  <ul>
+    <li>(free) Exercism: http://exercism.io/</li>
+    <li>(free) Codewars: http://www.codewars.com/</li>
+    <li>(paid) Interview Cake: https://www.interviewcake.com/</li>
   </ul>
 </ul>
 
