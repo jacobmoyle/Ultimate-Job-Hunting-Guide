@@ -67,7 +67,7 @@ A compilation of all the tools / resources that have kept me sane and on the war
   </ul>
   <li> TopResume: https://www.topresume.com/ </li>
   <ul>
-      <li> Free resume review. Feedback seems to vary but at a bare minimum you get feedback on how you're selling yourself and resume aesthetics.
+      <li> Free resume review. Feedback seems to vary but generally feedback is about resume layout and action words.</il>
   </ul>
 </ul>
 
