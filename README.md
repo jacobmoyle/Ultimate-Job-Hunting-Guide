@@ -1,5 +1,5 @@
 # Hunting-Tools
-I compilation of all the tools / resources that have kept me sane and on the war path. I'm going to start by barfing links, then add opinions, experiences and formatting over time.
+A compilation of all the tools / resources that have kept me sane and on the war path. I'm going to start by barfing links, then add opinions, experiences and formatting over time.
 
 # Table of Contents
 <ol>
