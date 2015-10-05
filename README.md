@@ -28,7 +28,7 @@ A compilation of all the tools / resources that have kept me sane and on the war
   <li> Articles: </li>
   <li> Videos: </li>
     <ul>
-    <li> The following videos are aimed more at IT folks but I found the information helpful:</li>
+    <li> The following videos are aimed more at IT folks but I found some of the information helpful:</li>
       <ul>  
         <li> Setting up Boundaries as a Tech Professional: https://www.youtube.com/watch?v=sE4a3ZwWeOA </li>
         <li> Job Satisfaction as a Tech Professional: https://www.youtube.com/watch?v=LyXv1sZqjYQ </li>
