@@ -15,6 +15,11 @@ A compilation of all the tools / resources that have kept me sane and on the war
   <li> Email Subscritions: </li>
   <li> Books: </li>
   <li> Articles: </li>
+  <li> Videos: </li>
+    <ul>
+      <li> Job Satisfaction as a Tech Professional: https://www.youtube.com/watch?v=LyXv1sZqjYQ </li>
+      <li> Setting up Boundaries as a Tech Professional: https://www.youtube.com/watch?v=sE4a3ZwWeOA </li>
+    </ul>
 </ul>
 
 # Techical Growth
