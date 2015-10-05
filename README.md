@@ -3,11 +3,22 @@ A compilation of all the tools / resources that have kept me sane and on the war
 
 # Table of Contents
 <ol>
+  <li> Helpful Tools </li>
   <li> Personal Growth </li>
   <li> Techical Growth </li>
   <li> Finding Jobs </li>
   <li> The Interview </li>
 </ol>
+
+# Helpful Tools
+<ul>
+  <li> Video Speed Controller: https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?hl=en </li>
+  <li> Trello: https://trello.com/b/I7TjiplA/trello-tutorial </li>
+    <ul>
+      <li> Will link basic board templates. </li>
+    </ul>
+  <li> Pomodoro Technique: http://pomodorotechnique.com/ </li>
+</ul>
 
 # Personal Growth
 <ul>
