@@ -31,7 +31,7 @@ A compilation of all the tools / resources that have kept me sane and on the war
       <li> Setting up Boundaries as a Tech Professional: https://www.youtube.com/watch?v=sE4a3ZwWeOA </li>
       <li> Job Satisfaction as a Tech Professional: https://www.youtube.com/watch?v=LyXv1sZqjYQ </li>
       <li> Punctuality for Tech Professionals: https://www.youtube.com/watch?v=N7R8YB1iLxM </li>
-      <li> Rejection for Tech Professionals: https://www.youtube.com/watch?v=KG_WeQjuseU </li>
+      <li> Money Mindset as a Tech Professional: https://www.youtube.com/watch?v=HNQltDoNpFg </li>
     </ul>
 </ul>
 
