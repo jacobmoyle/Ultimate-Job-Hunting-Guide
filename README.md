@@ -30,6 +30,7 @@ A compilation of all the tools / resources that have kept me sane and on the war
     <ul>
       <li> Job Satisfaction as a Tech Professional: https://www.youtube.com/watch?v=LyXv1sZqjYQ </li>
       <li> Setting up Boundaries as a Tech Professional: https://www.youtube.com/watch?v=sE4a3ZwWeOA </li>
+      <li> Punctuality for Tech Professionals: https://www.youtube.com/watch?v=N7R8YB1iLxM </li>
     </ul>
 </ul>
 
