@@ -99,6 +99,7 @@ A compilation of all the tools / resources that have kept me sane and on the war
   <ul>
     <li> <i><b>If this is the ultimate job guide, this is godly.</b></i> </li>
   </ul>
+  <li> Gun: https://gun.io/r/ea7d1cdda454f8a20c7cfc62019be8bd3c8a500b/</li>
   <li> Hired: http://join.hired.com/x/CF5apL </li>
   <li> Indeed: http://www.indeed.com/ </li>
   <li> White Truffle: https://www.whitetruffle.com </li>
