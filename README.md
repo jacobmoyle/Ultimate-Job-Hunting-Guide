@@ -57,14 +57,18 @@ A compilation of all the tools / resources that have kept me sane and on the war
     </ul>
   <li> Online Courses: </li>
     <ul>
+      <li>Shortcut Foo: https://www.shortcutfoo.com/ </li>
+      <ul>
+        <li> The creators have updated this quite in the last few months I've used this. Fun fact! It's also a cool way to be introduced to core methods of new languages! </li>
+      </ul>
       <li> Mentoring: https://www.codementor.io/ </li>
       <li> Upcase: https://upcase.com/practice </li>
       <li> Udacity: https://www.udacity.com/ </li>
       <li> TeamTreeHouse: http://referrals.trhou.se/jacobmoyle </li>
-        <ul>
-          <li> If you have a SF Library card, TeamTreeHouse is <b>free</b>.</li>
-          <li> Treehouse is a nice way to become exposed to a language, but I never felt like it made me fluent. I've found that doing a Treehouse course and then an in-depth todo app tutorial is the best way to learn something new.</li>
-        </ul>
+      <ul>
+        <li> If you have a SF Library card, TeamTreeHouse is <b>free</b>.</li>
+        <li> Treehouse is a nice way to become exposed to a language, but I never felt like it made me fluent. I've found that doing a Treehouse course and then an in-depth todo app tutorial is the best way to learn something new.</li>
+      </ul>
     </ul>
   <li> Helpful Videos: </li>
     <ul>
