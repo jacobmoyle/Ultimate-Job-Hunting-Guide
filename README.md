@@ -37,7 +37,7 @@ A compilation of all the tools / resources that have kept me sane and on the war
   * Upcase: https://upcase.com/practice
   * Udacity: https://www.udacity.com/
   * TeamTreeHouse: http://referrals.trhou.se/jacobmoyle
-    * If you have a SF Library card, TeamTreeHouse is <b>free</b>.
+    * If you have a SF Library card, TeamTreeHouse is **free**.
     * Treehouse is a nice way to become exposed to a language, but I never felt like it made me fluent. I've found that doing a Treehouse course and then an in-depth todo app tutorial is the best way to learn something new.
 * Helpful Videos:
     * Whiteboarding Reddit: https://www.udacity.com/course/viewer#!/c-cs253/l-48683805/m-48721328
@@ -50,13 +50,13 @@ A compilation of all the tools / resources that have kept me sane and on the war
 
 ## Resumes
 * Creddle: http://creddle.io/
-  * Free resume builder. Kinda glitchy but helpful for formatting if you don't like using tables in docs or something. <b>BEWARE:</b> I've heard that having information split into two columns does not play well with resume scrapers.
+  * Free resume builder. Kinda glitchy but helpful for formatting if you don't like using tables in docs or something. **BEWARE:** I've heard that having information split into two columns does not play well with resume scrapers.
 * TopResume: https://www.topresume.com/
   * Free resume review. Feedback seems to vary but generally feedback is about resume layout and action words.</il>
 
 ## Job Sites
 * Ultimate Web Dev. Job Guide: http://blog.thefirehoseproject.com/posts/the-ultimate-guide-to-jobs-in-web-development/
-  * <i><b>If this is the ultimate job guide, this is godly.</b></i>
+  * ***If this is the ultimate job guide, this is godly.***
 * Gun: https://gun.io/r/ea7d1cdda454f8a20c7cfc62019be8bd3c8a500b/
 * Hired: http://join.hired.com/x/CF5apL
 * Indeed: http://www.indeed.com/
