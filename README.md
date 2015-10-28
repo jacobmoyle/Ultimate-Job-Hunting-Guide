@@ -9,108 +9,62 @@ A compilation of all the tools / resources that have kept me sane and on the war
 5. The Interview
 
 # Helpful Tools
-<ul>
-  <li> Video Speed Controller: https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?hl=en </li>
-  <li> Trello: https://trello.com/b/I7TjiplA/trello-tutorial </li>
-    <ul>
-      <li> Will link basic board templates. </li>
-    </ul>
-  <li> Pomodoro Technique: http://pomodorotechnique.com/ </li>
-</ul>
+* Video Speed Controller: https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?hl=en
+* Trello: https://trello.com/b/I7TjiplA/trello-tutorial
+  * Will link basic board templates.
+* Pomodoro Technique: http://pomodorotechnique.com/
 
 # Personal Growth
-<ul>
-  <li> Podcasts: </li>
-  <li> Email Subscritions: </li>
-  <li> Books: </li>
-  <li> Articles: </li>
-  <li> Videos: </li>
-    <ul>
-    <li> The following videos are aimed more at IT folks but I found some of the information helpful:</li>
-      <ul>
-        <li> Setting up Boundaries as a Tech Professional: https://www.youtube.com/watch?v=sE4a3ZwWeOA </li>
-        <li> Job Satisfaction as a Tech Professional: https://www.youtube.com/watch?v=LyXv1sZqjYQ </li>
-        <li> Punctuality for Tech Professionals: https://www.youtube.com/watch?v=N7R8YB1iLxM </li>
-      </ul>
-    </ul>
-</ul>
+* Videos:
+  * The following videos are aimed more at IT folks but I found some of the information helpful:
+      * Setting up Boundaries as a Tech Professional: https://www.youtube.com/watch?v=sE4a3ZwWeOA
+      * Job Satisfaction as a Tech Professional: https://www.youtube.com/watch?v=LyXv1sZqjYQ
+      * Punctuality for Tech Professionals: https://www.youtube.com/watch?v=N7R8YB1iLxM
 
 # Techical Growth
-<ul>
-  <li> Podcasts: </li>
-    <ul>
-      <li> Bike Shed (By some guys at Thoughtbot): http://bikeshed.fm/ </li>
-    </ul>
-  <li> Email Subscritions: </li>
-  <ul>
-    <li>Interview Cake: https://www.interviewcake.com/</li>
-      <ul>
-        <li>Weekly newsletter contains a free algorithm.</li>
-      </ul>
-  </ul>
-  <li> Books: </li>
-  <li> Articles: </li>
-    <ul>
-      <li> Types of testing: http://www.softwaretestinghelp.com/types-of-software-testing/ </li>
-    </ul>
-  <li> Online Courses: </li>
-    <ul>
-      <li>Shortcut Foo: https://www.shortcutfoo.com/ </li>
-      <ul>
-        <li> The creators have updated this quite in the last few months I've used this. Fun fact! It's also a cool way to be introduced to core methods of new languages! </li>
-      </ul>
-      <li> Mentoring: https://www.codementor.io/ </li>
-      <li> Upcase: https://upcase.com/practice </li>
-      <li> Udacity: https://www.udacity.com/ </li>
-      <li> TeamTreeHouse: http://referrals.trhou.se/jacobmoyle </li>
-      <ul>
-        <li> If you have a SF Library card, TeamTreeHouse is <b>free</b>.</li>
-        <li> Treehouse is a nice way to become exposed to a language, but I never felt like it made me fluent. I've found that doing a Treehouse course and then an in-depth todo app tutorial is the best way to learn something new.</li>
-      </ul>
-    </ul>
-  <li> Helpful Videos: </li>
-    <ul>
-      <li> Whiteboarding Reddit: https://www.udacity.com/course/viewer#!/c-cs253/l-48683805/m-48721328 </li>
-    </ul>
-  <li> Alg. Practice: </li>
-    <ul>
-      <li>(free) Exercism: http://exercism.io/</li>
-      <li>(free) Codewars: http://www.codewars.com/</li>
-      <li>(paid) Interview Cake: https://www.interviewcake.com/</li>
-    </ul>
-</ul>
+* Podcasts:
+    * Bike Shed (By some guys at Thoughtbot): http://bikeshed.fm/
+* Email Subscriptions:
+  * Interview Cake: https://www.interviewcake.com/
+    * Weekly newsletter contains a free algorithm.
+* Books:
+* Articles:
+  * Types of testing: http://www.softwaretestinghelp.com/types-of-software-testing/
+* Online Courses:
+  * Shortcut Foo: https://www.shortcutfoo.com/
+    * The creators have updated this quite in the last few months I've used this. Fun fact! It's also a cool way to be introduced to core methods of new languages!
+  * Mentoring: https://www.codementor.io/
+  * Upcase: https://upcase.com/practice
+  * Udacity: https://www.udacity.com/
+  * TeamTreeHouse: http://referrals.trhou.se/jacobmoyle
+    * If you have a SF Library card, TeamTreeHouse is <b>free</b>.
+    * Treehouse is a nice way to become exposed to a language, but I never felt like it made me fluent. I've found that doing a Treehouse course and then an in-depth todo app tutorial is the best way to learn something new.
+* Helpful Videos:
+    * Whiteboarding Reddit: https://www.udacity.com/course/viewer#!/c-cs253/l-48683805/m-48721328
+* Alg. Practice:
+    * (free) Exercism: http://exercism.io/
+    * (free) Codewars: http://www.codewars.com/
+    * (paid) Interview Cake: https://www.interviewcake.com/
 
 # Finding Jobs
 
 ## Resumes
-<ul>
-  <li> Creddle: http://creddle.io/ </il>
-  <ul>
-    <li> Free resume builder. Kinda glitchy but helpful for formatting if you don't like using tables in docs or something. <b>BEWARE:</b> I've heard that having information split into two columns does not play well with resume scrapers. </li>
-  </ul>
-  <li> TopResume: https://www.topresume.com/ </li>
-  <ul>
-      <li> Free resume review. Feedback seems to vary but generally feedback is about resume layout and action words.</il>
-  </ul>
-</ul>
+* Creddle: http://creddle.io/
+  * Free resume builder. Kinda glitchy but helpful for formatting if you don't like using tables in docs or something. <b>BEWARE:</b> I've heard that having information split into two columns does not play well with resume scrapers.
+* TopResume: https://www.topresume.com/
+  * Free resume review. Feedback seems to vary but generally feedback is about resume layout and action words.</il>
 
 ## Job Sites
-
-<ul>
-  <li> Ultimate Web Dev. Job Guide: http://blog.thefirehoseproject.com/posts/the-ultimate-guide-to-jobs-in-web-development/ </li>
-  <ul>
-    <li> <i><b>If this is the ultimate job guide, this is godly.</b></i> </li>
-  </ul>
-  <li> Gun: https://gun.io/r/ea7d1cdda454f8a20c7cfc62019be8bd3c8a500b/</li>
-  <li> Hired: http://join.hired.com/x/CF5apL </li>
-  <li> Indeed: http://www.indeed.com/ </li>
-  <li> White Truffle: https://www.whitetruffle.com </li>
-  <li> AngelList: https://angel.co/ </li>
-  <li> Monster: http://www.monster.com/ </li>
-  <li> SmartHires: https://www.smarthires.io </li>
-  <li> Underdog: https://underdog.io/ </li>
-  <li> Venture Capalist Sites: Any that have a careers page. See the Firehose blog link above.</li>
-</ul>
+* Ultimate Web Dev. Job Guide: http://blog.thefirehoseproject.com/posts/the-ultimate-guide-to-jobs-in-web-development/
+  * <i><b>If this is the ultimate job guide, this is godly.</b></i>
+* Gun: https://gun.io/r/ea7d1cdda454f8a20c7cfc62019be8bd3c8a500b/
+* Hired: http://join.hired.com/x/CF5apL
+* Indeed: http://www.indeed.com/
+* White Truffle: https://www.whitetruffle.com
+* AngelList: https://angel.co/
+* Monster: http://www.monster.com/
+* SmartHires: https://www.smarthires.io
+* Underdog: https://underdog.io/
 
 # The Interview
 
