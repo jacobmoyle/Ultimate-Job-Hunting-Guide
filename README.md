@@ -6,7 +6,8 @@ A compilation of all the tools / resources that have kept me sane and on the war
 2. [Personal Growth](#personal-growth)
 3. [Techical Growth](#techical-growth)
 4. [Finding Jobs](#finding-jobs)
-5. [The Interview](#the-interview)
+5. [Resume Help](#resume-assistance)
+6. [The Interview](#the-interview)
 
 #Helpful Tools
 * [Video Speed Controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?hl=en)
@@ -58,7 +59,7 @@ A compilation of all the tools / resources that have kept me sane and on the war
 * [Underdog](https://underdog.io/)
 
 
-##Resumes
+#Resume Assistance
 * [Creddle](http://creddle.io/)
   * Free resume builder. Kinda glitchy but helpful for formatting if you don't like using tables in docs or something. **BEWARE:** I've heard that having information split into two columns does not play well with resume scrapers.
 * [TopResume](https://www.topresume.com/)
