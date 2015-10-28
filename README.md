@@ -1,27 +1,27 @@
-# Hunting-Tools
+#Hunting-Tools
 A compilation of all the tools / resources that have kept me sane and on the war path. I'm going to start by barfing links, then add opinions, experiences and formatting over time.
 
-# Table of Contents
-1. Helpful Tools
+#Table of Contents
+1. [Helpful Tools](#Helpful Tools)
 2. Personal Growth
 3. Techical Growth
 4. Finding Jobs
 5. The Interview
 
-# Helpful Tools
+#Helpful Tools
 * [Video Speed Controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?hl=en)
 * [Trello](https://trello.com/b/I7TjiplA/trello-tutorial)
   * Will link basic board templates.
 * [Pomodoro Technique](http://pomodorotechnique.com/)
 
-# Personal Growth
+#Personal Growth
 * **Videos:**
   * The following videos are aimed more at IT folks but I found some of the information helpful:
       * [Setting up Boundaries as a Tech Professional](https://www.youtube.com/watch?v=sE4a3ZwWeOA)
       * [Job Satisfaction as a Tech Professional](https://www.youtube.com/watch?v=LyXv1sZqjYQ)
       * [Punctuality for Tech Professionals](https://www.youtube.com/watch?v=N7R8YB1iLxM)
 
-# Techical Growth
+#Techical Growth
 * **Podcasts:**
     * [Bike Shed](http://bikeshed.fm/)
 * **Email Subscriptions:**
@@ -45,7 +45,7 @@ A compilation of all the tools / resources that have kept me sane and on the war
     * (free) [Codewars](http://www.codewars.com/)
     * (paid) [Interview Cake](https://www.interviewcake.com/)
 
-# Finding Jobs
+#Finding Jobs
 * [Ultimate Web Dev. Job Guide](http://blog.thefirehoseproject.com/posts/the-ultimate-guide-to-jobs-in-web-development/)
   * ***If this is the ultimate job guide, this is godly.***
 * [Gun](https://gun.io/r/ea7d1cdda454f8a20c7cfc62019be8bd3c8a500b/)
@@ -58,13 +58,13 @@ A compilation of all the tools / resources that have kept me sane and on the war
 * [Underdog](https://underdog.io/)
 
 
-## Resumes
+##Resumes
 * [Creddle](http://creddle.io/)
   * Free resume builder. Kinda glitchy but helpful for formatting if you don't like using tables in docs or something. **BEWARE:** I've heard that having information split into two columns does not play well with resume scrapers.
 * [TopResume](https://www.topresume.com/)
   * Free resume review. Feedback seems to vary but generally feedback is about resume layout and action words.
 
-# The Interview
+#The Interview
 A helpful email written by a recruiter from Hired:
 
 > Pick the projects you feel most confident and passionate about discussing. Ensure your answers are concise and leave room to go into more detail when appropriate.
