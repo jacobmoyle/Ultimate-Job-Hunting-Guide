@@ -3,10 +3,10 @@ A compilation of all the tools / resources that have kept me sane and on the war
 
 #Table of Contents
 1. [Helpful Tools](#helpful-tools)
-2. [Personal Growth](#Personal)
-3. Techical Growth
-4. Finding Jobs
-5. The Interview
+2. [Personal Growth](#personal-growth)
+3. [Techical Growth](#techical-growth)
+4. [Finding Jobs](#finding-jobs)
+5. [The Interview](#the-interview)
 
 #Helpful Tools
 * [Video Speed Controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?hl=en)
