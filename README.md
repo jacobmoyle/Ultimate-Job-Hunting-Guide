@@ -2,13 +2,11 @@
 A compilation of all the tools / resources that have kept me sane and on the war path. I'm going to start by barfing links, then add opinions, experiences and formatting over time.
 
 # Table of Contents
-<ol>
-  <li> Helpful Tools </li>
-  <li> Personal Growth </li>
-  <li> Techical Growth </li>
-  <li> Finding Jobs </li>
-  <li> The Interview </li>
-</ol>
+  1. Helpful Tools
+  2. Personal Growth
+3. Techical Growth
+  4. Finding Jobs
+  5. The Interview
 
 # Helpful Tools
 <ul>
@@ -29,7 +27,7 @@ A compilation of all the tools / resources that have kept me sane and on the war
   <li> Videos: </li>
     <ul>
     <li> The following videos are aimed more at IT folks but I found some of the information helpful:</li>
-      <ul>  
+      <ul>
         <li> Setting up Boundaries as a Tech Professional: https://www.youtube.com/watch?v=sE4a3ZwWeOA </li>
         <li> Job Satisfaction as a Tech Professional: https://www.youtube.com/watch?v=LyXv1sZqjYQ </li>
         <li> Punctuality for Tech Professionals: https://www.youtube.com/watch?v=N7R8YB1iLxM </li>
@@ -40,7 +38,7 @@ A compilation of all the tools / resources that have kept me sane and on the war
 # Techical Growth
 <ul>
   <li> Podcasts: </li>
-    <ul> 
+    <ul>
       <li> Bike Shed (By some guys at Thoughtbot): http://bikeshed.fm/ </li>
     </ul>
   <li> Email Subscritions: </li>
