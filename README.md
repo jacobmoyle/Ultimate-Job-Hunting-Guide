@@ -2,11 +2,11 @@
 A compilation of all the tools / resources that have kept me sane and on the war path. I'm going to start by barfing links, then add opinions, experiences and formatting over time.
 
 # Table of Contents
-  1. Helpful Tools
-  2. Personal Growth
+1. Helpful Tools
+2. Personal Growth
 3. Techical Growth
-  4. Finding Jobs
-  5. The Interview
+4. Finding Jobs
+5. The Interview
 
 # Helpful Tools
 <ul>
