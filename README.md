@@ -15,21 +15,21 @@ A compilation of all the tools / resources that have kept me sane and on the war
 * [Pomodoro Technique](http://pomodorotechnique.com/)
 
 # Personal Growth
-* Videos:
+* **Videos:**
   * The following videos are aimed more at IT folks but I found some of the information helpful:
       * [Setting up Boundaries as a Tech Professional](https://www.youtube.com/watch?v=sE4a3ZwWeOA)
       * [Job Satisfaction as a Tech Professional](https://www.youtube.com/watch?v=LyXv1sZqjYQ)
       * [Punctuality for Tech Professionals](https://www.youtube.com/watch?v=N7R8YB1iLxM)
 
 # Techical Growth
-* Podcasts:
+* **Podcasts:**
     * [Bike Shed](http://bikeshed.fm/)
-* Email Subscriptions:
+* **Email Subscriptions:**
   * [Interview Cake](https://www.interviewcake.com/)
     * Weekly newsletter contains a free algorithm.
-* Articles:
+* **Articles:**
   * [Types of testing](http://www.softwaretestinghelp.com/types-of-software-testing/)
-* Online Courses:
+* **Online Courses:**
   * [Shortcut Foo](https://www.shortcutfoo.com/)
     * The creators have updated this quite in the last few months I've used this. Fun fact! It's also a cool way to be introduced to core methods of new languages!
   * [Mentoring](https://www.codementor.io/)
@@ -38,9 +38,9 @@ A compilation of all the tools / resources that have kept me sane and on the war
   * [TeamTreeHouse](http://referrals.trhou.se/jacobmoyle)
     * If you have a San Francisco Library card, TeamTreeHouse is **free** - Bring proof of California state residency to the front desk to recieve a card.
       * Treehouse is a nice way to become exposed to a language, but I never felt like it made me fluent. I've found that doing a Treehouse course and then an in-depth todo app tutorial is the best way to learn something new.
-* Helpful Videos:
+* **Helpful Videos:**
     * [Whiteboarding Reddit](https://www.udacity.com/course/viewer#!/c-cs253/l-48683805/m-48721328)
-* Alg. Practice:
+* **Alg. Practice:**
     * (free) [Exercism](http://exercism.io/)
     * (free) [Codewars](http://www.codewars.com/)
     * (paid) [Interview Cake](https://www.interviewcake.com/)
