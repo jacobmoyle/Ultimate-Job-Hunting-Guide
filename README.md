@@ -40,6 +40,8 @@ A compilation of all the tools / resources that have kept me sane and on the war
   * [Shortcut Foo](https://www.shortcutfoo.com/)
     * The creators have updated this quite in the last few months I've used this. Fun fact! It's also a cool way to be introduced to core methods of new languages!
   * [Mentoring](https://www.codementor.io/)
+  * [Internet is Hard](https://internetingishard.com/)
+    * Beginner friendly but damn. This site is sexy.
   * [Upcase](https://upcase.com/practice)
   * [Udacity](https://www.udacity.com/)
   * [TeamTreeHouse](http://referrals.trhou.se/jacobmoyle)
