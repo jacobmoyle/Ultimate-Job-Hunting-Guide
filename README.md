@@ -38,6 +38,7 @@ A compilation of all the tools/resources that have kept me sane and on the warpa
   * [Interview Cake](https://www.interviewcake.com/)
     * Weekly newsletter contains a free algorithm.
 * **Articles:**
+  * [Learn in Public](https://www.swyx.io/writing/learn-in-public/)
   * [Types of testing](http://www.softwaretestinghelp.com/types-of-software-testing/)
 * **Online Courses:**
   * [Egghead](https://egghead.io/)
