@@ -14,7 +14,7 @@ A compilation of all the tools/resources that have kept me sane and on the warpa
 ## Helpful Tools
 * [Video Speed Controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?hl=en)
 * [Trello](https://trello.com/b/I7TjiplA/trello-tutorial)
-  * Will link basic board templates.
+  * [Copy of my old board](https://trello.com/b/eVHZ331j/joblistcopy) <- Hopefully there's nothing embarrasing in there but you get an idea of how I used it to manage/track my applications. Feel free to reach out to any of the companies as well (if there's still around).
 * [Pomodoro Technique](http://pomodorotechnique.com/)
 
 ## Resume Assistance
